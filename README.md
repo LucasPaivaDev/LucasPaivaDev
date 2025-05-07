@@ -1,5 +1,5 @@
-# Hi
-```
+# Welcome
+```php
 require_once 'LucasPaivaDev.php';
 
 class SobreMim extends SeuNick {
@@ -7,6 +7,7 @@ class SobreMim extends SeuNick {
     public string $area = 'Desenvolvimento Backend';
     public string $trabalho = 'Cretive Design';
     public string $local = 'Barueri, São Paulo';
+    public string $estudando = 'C#';
 }
 
 class Skills extends SeuNick {
@@ -17,8 +18,10 @@ class Skills extends SeuNick {
 ```
 ---
 
-## ⭐ GitHub Stats
-
+## Stats
+<p>
+    
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasPaivaDev&show_icons=true&theme=dark)
-
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPaivaDev&layout=compact&theme=dark)
+</p>
+
