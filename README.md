@@ -19,9 +19,21 @@ class Skills extends SeuNick {
 ---
 
 ## Stats
-<p>
-    
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasPaivaDev&show_icons=true&theme=dark)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPaivaDev&layout=compact&theme=dark)
-</p>
+<div align="center">
+  <a href="https://github.com/LucasPaivaDev">
+    <img height="205em" src="https://github-readme-stats.vercel.app/api?username=LucasPaivaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+    <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPaivaDev&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+#### Connect with me:
+
+<a href="https://www.instagram.com/eu_opaiva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href ="mailto:paiva.lucas09@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-de-souza-paiva-592944215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+####
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LucasPaivaDev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
 
