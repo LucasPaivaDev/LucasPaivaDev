@@ -2,7 +2,7 @@
 ```php
 require_once 'LucasPaivaDev.php';
 
-class SobreMim extends SeuNick {
+class SobreMim extends LucasPaivaDev {
     public string $nome = 'Lucas de Souza Paiva';
     public string $area = 'Desenvolvimento Backend';
     public string $trabalho = 'Cretive Design';
@@ -10,7 +10,7 @@ class SobreMim extends SeuNick {
     public string $estudando = 'C#';
 }
 
-class Skills extends SeuNick {
+class Skills extends LucasPaivaDev {
     public array $linguagens = ['PHP', 'JavaScript', 'SQL'];
     public array $bibliotecas = ['Eloquent', 'Spatie Permissions'];
     public array $frameworks = ['Laravel', 'Vue.js', 'Inertia.js'];
