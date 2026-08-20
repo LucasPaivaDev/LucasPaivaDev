@@ -3,6 +3,7 @@
 <p><em>Software Engineering at <a href="https://descomplica.com.br">Descomplica</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 <p><em>Backend Developer at <a href="https://github.com/LucasPaivaDev">PixelHouse</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
+[![Outlook](https://img.shields.io/badge/-paiva.lucas09@hotmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:paiva.lucas09@hotmail.com)
 [![Linkedin: lucas-paiva](https://img.shields.io/badge/-lucaspaiva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-de-souza-paiva-592944215)](https://www.linkedin.com/in/lucas-de-souza-paiva-592944215)
 [![GitHub LucasPaivaDev](https://img.shields.io/github/followers/LucasPaivaDev?label=follow&style=social)](https://github.com/LucasPaivaDev)
 
