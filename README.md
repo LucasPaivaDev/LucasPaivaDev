@@ -1,47 +1,31 @@
-<div align="center">
+<h2>Hey! I am Lucas Paiva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Hey!+Bem+vindo+👋)](https://git.io/typing-svg)
+<p><em>Software Engineering at <a href="https://descomplica.com.br">Descomplica</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>Backend Developer at <a href="https://github.com/LucasPaivaDev">PixelHouse</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-</div>
+[![Linkedin: lucas-paiva](https://img.shields.io/badge/-lucaspaiva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-de-souza-paiva-592944215)](https://www.linkedin.com/in/lucas-de-souza-paiva-592944215)
+[![GitHub LucasPaivaDev](https://img.shields.io/github/followers/LucasPaivaDev?label=follow&style=social)](https://github.com/LucasPaivaDev)
 
-Desenvolvedor Backend · C# · .NET · Angular · PHP · Laravel · Node.js · SQL Server · Barueri, SP
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Who I am...
 
 ```php
 require_once 'LucasPaivaDev.php';
 
-class SobreMim extends LucasPaivaDev {
-    public string $name = 'Lucas Paiva';
-    public string $position = 'Software Engeniring';
+class WhoIAm extends LucasPaivaDev {
+    public string $name = 'Lucas de Souza Paiva';
+    public string $role = 'Backend Developer';
     public string $work = 'PixelHouse';
+    public string $local = 'Barueri, SP';
 
-    public array $languages = ['C#', 'PHP', 'JavaScript', 'SQL'];
-    public array $frameworks = ['.NET', 'Angular', 'Laravel', 'Vue.js'];
-    public array $tools = ['SQL Server', 'Node.js', 'Git', 'Docker'];
+    public array $code = ['C#', 'PHP', 'JavaScript', 'SQL'];
+    public array $tools = ['.NET', 'Angular', 'Laravel', 'Vue.js', 'SQL Server', 'Docker'];
+    public array $architecture = ['REST APIs', 'Hexagonal Architecture', 'Clean Architecture'];
+
+    public string $currentProject = 'AlbionWebApp — tool for albion players';
+    public string $funFact = 'trying to create something different and help peoples lives';
 }
 ```
 
 ---
 
-### Projetos
-
-🎮 **[AlbionWebApp](https://github.com/LucasPaivaDev/AlbionWebApp)** — Web app em C#/.NET para auxiliar jogadores de Albion Online com dados de mercado e crafting. Em desenvolvimento.
-
-🧪 **[TGRTeste](https://github.com/LucasPaivaDev/TGRTeste)** — API em PHP/Laravel com Eloquent, permissions e Blade, demonstrando domínio do ecossistema Laravel em cenário real.
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasPaivaDev&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/lucas-de-souza-paiva-592944215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="mailto:paiva.lucas09@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white"></a>
-<a href="https://www.instagram.com/eu_opaiva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-
-</div>
+<img src="https://media.giphy.com/media/9u1J84ZtCSl9K/giphy.gif" width="60"> <em><b>Eu sou falante até demais</b> — se quiser bater um papo, vai ser um prazer! 🤙</em>
