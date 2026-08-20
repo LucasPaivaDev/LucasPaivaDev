@@ -1,39 +1,47 @@
-# Welcome
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Hey!+Bem+vindo+👋)](https://git.io/typing-svg)
+
+</div>
+
+Desenvolvedor Backend · C# · .NET · Angular · PHP · Laravel · Node.js · SQL Server · Barueri, SP
+
 ```php
 require_once 'LucasPaivaDev.php';
 
 class SobreMim extends LucasPaivaDev {
-    public string $nome = 'Lucas de Souza Paiva';
-    public string $area = 'Desenvolvimento Backend';
-    public string $trabalho = 'Cretive Design';
-    public string $local = 'Barueri, São Paulo';
-    public string $estudando = 'C#';
-}
+    public string $name = 'Lucas Paiva';
+    public string $position = 'Software Engeniring';
+    public string $work = 'PixelHouse';
 
-class Skills extends LucasPaivaDev {
-    public array $linguagens = ['PHP', 'JavaScript', 'SQL'];
-    public array $bibliotecas = ['Eloquent', 'Spatie Permissions'];
-    public array $frameworks = ['Laravel', 'Vue.js', 'Inertia.js'];
+    public array $languages = ['C#', 'PHP', 'JavaScript', 'SQL'];
+    public array $frameworks = ['.NET', 'Angular', 'Laravel', 'Vue.js'];
+    public array $tools = ['SQL Server', 'Node.js', 'Git', 'Docker'];
 }
 ```
+
 ---
 
-## Stats
+### Projetos
+
+🎮 **[AlbionWebApp](https://github.com/LucasPaivaDev/AlbionWebApp)** — Web app em C#/.NET para auxiliar jogadores de Albion Online com dados de mercado e crafting. Em desenvolvimento.
+
+🧪 **[TGRTeste](https://github.com/LucasPaivaDev/TGRTeste)** — API em PHP/Laravel com Eloquent, permissions e Blade, demonstrando domínio do ecossistema Laravel em cenário real.
+
+---
+
 <div align="center">
-  <a href="https://github.com/LucasPaivaDev">
-    <img height="180vh" src="https://github-readme-stats.vercel.app/api?username=LucasPaivaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-    <img height="180vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPaivaDev&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasPaivaDev&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Top Languages" />
+
 </div>
 
-####
+---
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LucasPaivaDev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+
+<a href="https://www.linkedin.com/in/lucas-de-souza-paiva-592944215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="mailto:paiva.lucas09@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white"></a>
+<a href="https://www.instagram.com/eu_opaiva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+
 </div>
-
-#### Connect with me:
-
-<a href="https://www.instagram.com/eu_opaiva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href ="mailto:paiva.lucas09@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-de-souza-paiva-592944215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
